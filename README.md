@@ -24,4 +24,4 @@ O objectivo principal deste trabalho irá ser melhorar a organizaç?o de uma clíni
 - Pesquisa de orçamentos registados no sistema; 
 - Na respectiva área de orçamentos terá todo a informaç?o necessária para perceber quando foi efectuado, qual o valor do mesmo, a hora e qual o serviço efectuado no cliente.
 
-
+![Alt text](imagens/modeloer.jpg "modeloer")

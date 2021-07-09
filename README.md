@@ -21,14 +21,17 @@ A figura 2.1 ,2.2 e 2.3 apresenta o modelo entidade relacionamento do sistema de
 os clientes em sistema.
 
 ![Alt text](imagens/Modelo err esquema.jpg "modeloer")
+
 Figura 2.1: Modelo ER da base de dados operacional relacionamento do funcionamento das
 tabelas onde temos as tabelas Admin e Trabalhadores.
 
 ![Alt text](imagens/Modelo err esquema 2.jpg "modeloer")
+
 Figura 2.2: Modelo ER da base de dados operacional relacionamento do funcionamento das
 tabelas onde temos as tabelas Clientes e Faturas.
 
 ![Alt text](imagens/Modelo err esquema 3.jpg "modeloer")
+
 Figura 2.3: Modelo ER da base de dados operacional relacionamento do funcionamento das
 tabelas onde temos as tabelas Trabalhadores e Faturas.
 
@@ -56,6 +59,7 @@ Trabalhradores: entidade responsável por armazenar e modificar as informações do
 Faturas: entidade responsável para armazenar os agendamentos/orçamentos de serviços efetuados;
 
 ![Alt text](imagens/dimensões1.jpg "modeloer")
+
 Figura 3.1: Tabela de Administrator.
 
 Clientes/Faturas: entidade responsável por armazenar os clientes/faturas registados será o trabalhador o responsavel: 
@@ -63,12 +67,15 @@ Clientes/Faturas: entidade responsável por armazenar os clientes/faturas regista
 2) Registar Trabalhador - id trabalhador /Nome trabalhador /Cargo trabalhador/ tele movel trabalhador / email trabalhador/ cidade trabalhador/ morada trabalhador/ codigo postal do trabalhador / salario trabalhador
 
 ![Alt text](imagens/dimensões2.jpg "modeloer")
+
 Figura 3.2: Tabela de Funcionários.
 
 ![Alt text](imagens/dimensões3.jpg "modeloer")
+
 Figura 3.3: Tabela de Clientes.
 
 ![Alt text](imagens/dimensões4.jpg "modeloer")
+
 Figura 3.4: Tabela de Faturas.
 
 3) Registar cliente - id cliente /Nome cliente /telemovel cliente/ email cliente / morada cliente/ codigo postal cliente/ tipo de consulta cliente/ problema doença do cliente / medico do cliente
@@ -80,12 +87,14 @@ Nos modelos de bases de dados relacionais, a tabela é um conjunto de dados dispo
 As colunas são tipicamente consideradas os campos da tabela, e caracterizam os tipos de dados que deverão constar na tabela.
 
 ![Alt text](imagens/Modelo err.jpg "modeloer")
+
 Figura 2.4: Modelo ER da base de dados operacional relacionamento do funcionamento das
 tabelas onde temos as tabelas Trabalhadores e Faturas.
 
 2.6- Modelo Lógico
 
 ![Alt text](imagens/Modelo er relações.jpg "modeloer")
+
 Figura 2.5: Modelo ER da base de dados operacional relacionamento do funcionamento das
 tabelas onde temos as tabelas Trabalhadores e Faturas. 
 Os objetivos do sistema de Gestão de uma Clinica é a automatização das etapas presentes neste tipos de trabalhos. 
@@ -107,15 +116,19 @@ Os objetivos específicos são:
 Permite criar , apagar e pesquisar as tabelas de Administrador , Trabalhadores, Clientes e Faturas.
 
 ![Alt text](imagens/criar1 admin.jpg "modeloer")
+
 Figura 4.3: Tabela de Administradores.
 
 ![Alt text](imagens/criar2 trabalhador.jpg "modeloer")
+
 Figura 4.4: Tabela de Trabalhadores.
+
 
 ![Alt text](imagens/criar3 cliente.jpg "modeloer")
 Figura 4.5: Tabela de Clientes.
 
 ![Alt text](imagens/faturas.jpg "modeloer")
+
 Figura 4.6: Tabela de Faturas.
 
 3.1- Geral

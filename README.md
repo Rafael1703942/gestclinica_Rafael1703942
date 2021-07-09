@@ -56,30 +56,34 @@ O objectivo principal desta Base de dados irá ser melhorar a organização de uma 
 2.4- Atributos/Dimensões
 
 Trabalhradores: entidade responsável por armazenar e modificar as informações dos clientes registados;
+Clientes/Faturas: entidade responsável por armazenar os clientes/faturas registados será o trabalhador o responsavel: 
 Faturas: entidade responsável para armazenar os agendamentos/orçamentos de serviços efetuados;
 
 ![Alt text](imagens/dimensões1.jpg "modeloer")
 
 Figura 3.1: Tabela de Administrator.
 
-Clientes/Faturas: entidade responsável por armazenar os clientes/faturas registados será o trabalhador o responsavel: 
 1) Registar admins - id do admin /nomeadmin/cargoadmin
-2) Registar Trabalhador - id trabalhador /Nome trabalhador /Cargo trabalhador/ tele movel trabalhador / email trabalhador/ cidade trabalhador/ morada trabalhador/ codigo postal do trabalhador / salario trabalhador
 
-![Alt text](imagens/dimensões2.jpg "modeloer")
+![Alt text](imagens/dimensoes2.jpg "modeloer")
 
 Figura 3.2: Tabela de Funcionários.
 
-![Alt text](imagens/dimensões3.jpg "modeloer")
+2) Registar Trabalhador - id trabalhador /Nome trabalhador /Cargo trabalhador/ tele movel trabalhador / email trabalhador/ cidade trabalhador/ morada trabalhador/ codigo postal do trabalhador / salario trabalhador
+
+![Alt text](imagens/dimensoes3.jpg "modeloer")
 
 Figura 3.3: Tabela de Clientes.
 
-![Alt text](imagens/dimensões4.jpg "modeloer")
+3) Registar cliente - id cliente /Nome cliente /telemovel cliente/ email cliente / morada cliente/ codigo postal cliente/ tipo de consulta cliente/ problema doença do cliente / medico do cliente
+
+![Alt text](imagens/dimensoes4.jpg "modeloer")
 
 Figura 3.4: Tabela de Faturas.
 
-3) Registar cliente - id cliente /Nome cliente /telemovel cliente/ email cliente / morada cliente/ codigo postal cliente/ tipo de consulta cliente/ problema doença do cliente / medico do cliente
 4) Faturas - id fatura /Nome cliente fatura /orçamento fatura/ email fatura / cidade fatura/ morada fatura/ codigo postal fatura/ tipo de consulta fatura / medico autor fatura / Data fatura
+
+
 
 2.5- Relações
 

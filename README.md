@@ -1,5 +1,6 @@
 # <Rafael_Ferreira_1703942> Database - GestClinica
 
+
 1- Descrição do Trabalho
 
 O principal objetivo deste projeto será modelar uma Base de Dados Operacional que consiga realizar a gestão de uma clínica. 

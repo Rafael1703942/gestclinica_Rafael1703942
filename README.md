@@ -20,17 +20,17 @@ Os objectivos especícos são:
 A figura 2.1 ,2.2 e 2.3 apresenta o modelo entidade relacionamento do sistema de gestão de uma clinica , cada trabalhador produz a respetiva fatura do cliente e os trabalhadores registão
 os clientes em sistema.
 
-![Alt text](imagens/Modelo err esquema.jpg "modeloer")
+![Alt text](imagens/Modeloerresquema.jpg "modeloer")
 
 Figura 2.1: Modelo ER da base de dados operacional relacionamento do funcionamento das
 tabelas onde temos as tabelas Admin e Trabalhadores.
 
-![Alt text](imagens/Modelo err esquema 2.jpg "modeloer")
+![Alt text](imagens/Modeloerr esquema2.jpg "modeloer")
 
 Figura 2.2: Modelo ER da base de dados operacional relacionamento do funcionamento das
 tabelas onde temos as tabelas Clientes e Faturas.
 
-![Alt text](imagens/Modelo err esquema 3.jpg "modeloer")
+![Alt text](imagens/Modeloerresquema3.jpg "modeloer")
 
 Figura 2.3: Modelo ER da base de dados operacional relacionamento do funcionamento das
 tabelas onde temos as tabelas Trabalhadores e Faturas.
@@ -59,7 +59,7 @@ Trabalhradores: entidade responsável por armazenar e modificar as informações do
 Clientes/Faturas: entidade responsável por armazenar os clientes/faturas registados será o trabalhador o responsavel: 
 Faturas: entidade responsável para armazenar os agendamentos/orçamentos de serviços efetuados;
 
-![Alt text](imagens/dimensões1.jpg "modeloer")
+![Alt text](imagens/dimensoes1.jpg "modeloer")
 
 Figura 3.1: Tabela de Administrator.
 
@@ -90,14 +90,14 @@ Figura 3.4: Tabela de Faturas.
 Nos modelos de bases de dados relacionais, a tabela é um conjunto de dados dispostos em nú mero infinito de colunas e número ilimitado de linhas. 
 As colunas são tipicamente consideradas os campos da tabela, e caracterizam os tipos de dados que deverão constar na tabela.
 
-![Alt text](imagens/Modelo err.jpg "modeloer")
+![Alt text](imagens/modeloerr.jpg "modeloer")
 
 Figura 2.4: Modelo ER da base de dados operacional relacionamento do funcionamento das
 tabelas onde temos as tabelas Trabalhadores e Faturas.
 
 2.6- Modelo Lógico
 
-![Alt text](imagens/Modelo er relações.jpg "modeloer")
+![Alt text](imagens/Modeloerrelaçoes.jpg "modeloer")
 
 Figura 2.5: Modelo ER da base de dados operacional relacionamento do funcionamento das
 tabelas onde temos as tabelas Trabalhadores e Faturas. 
@@ -119,16 +119,16 @@ Os objetivos específicos são:
 
 Permite criar , apagar e pesquisar as tabelas de Administrador , Trabalhadores, Clientes e Faturas.
 
-![Alt text](imagens/criar1 admin.jpg "modeloer")
+![Alt text](imagens/criar1admin.jpg "modeloer")
 
 Figura 4.3: Tabela de Administradores.
 
-![Alt text](imagens/criar2 trabalhador.jpg "modeloer")
+![Alt text](imagens/criar2trabalhador.jpg "modeloer")
 
 Figura 4.4: Tabela de Trabalhadores.
 
 
-![Alt text](imagens/criar3 cliente.jpg "modeloer")
+![Alt text](imagens/criar3cliente.jpg "modeloer")
 Figura 4.5: Tabela de Clientes.
 
 ![Alt text](imagens/faturas.jpg "modeloer")
